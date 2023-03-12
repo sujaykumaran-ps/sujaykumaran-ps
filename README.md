@@ -10,5 +10,3 @@ I am a team player and have good communication and collaboration skills. I am al
 
 - 📫 How to reach me: palanikumarsankara.s@northeastern.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Did you know that the term "debugging" was coined by Grace Hopper, a computer scientist and US Navy rear admiral? In 1947, Hopper had to remove a moth that had gotten stuck in the Harvard Mark II computer, and she wrote in her log book that she was "debugging" the system. Since then, the term has been widely used in software development to refer to the process of finding and fixing errors in code.
-
