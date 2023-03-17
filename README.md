@@ -4,7 +4,7 @@ I am currently a graduate student at Northeastern University and have been worki
 
 Prior to my graduate studies, I worked as a Software Engineer at Optum Global Solutions (UnitedHealth Group - UHG) for four years. I led the Front-end development using Angular for Shark Tank - Appolink, Patient Portal and Consumer Contact History Projects in an Agile Environment. I also reduced development costs for the project by strengthening the application infrastructure using CI/CD techniques.
 
-I am proficient in several languages and frameworks including JavaScript, Java, TypeScript, Python, HTML, CSS, Node.js, React, Angular, SQL, Express, Bootstrap, Shell Scripting, Terraform and have experience with database like MongoDB, MySQL, SQL Server, MS SQL. I am also familiar with tools and technologies such as Git, Figma, NetBeans, VS Code, Android Studio, Jenkins, Postman, Splunk, SONAR, Fortify, Docker, Jupyter Notebook, CA Agile Central Rally, Linear, PowerShell, and have experience working in AWS. 
+I am proficient in several languages and frameworks including JavaScript, Java, TypeScript, Python, HTML, CSS, Node.js, React, Angular, SQL, Express, Bootstrap, Shell Scripting, Terraform and have experience with database like MongoDB, MySQL, SQL Server, MS SQL. I am also familiar with tools and technologies such as Git, Figma, NetBeans, VS Code, Jenkins, Postman, Splunk, SONAR, Fortify, Docker, CA Agile Central Rally, Linear, PowerShell, and have experience working in AWS. 
 
 I am a team player and have good communication and collaboration skills. I am also able to stay current with industry trends and have excellent troubleshooting skills.
 
