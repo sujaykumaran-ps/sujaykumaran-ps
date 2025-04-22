@@ -1,12 +1,65 @@
 ### Hi there 👋
 
-I am currently a graduate student at Northeastern University and have been working as a Graduate Teaching Assistant, where I have been helping students with AWS infrastructure setup and creation using AWS CloudFormation and Packer. I have also been conducting regular TA Office Hours and Lab Sessions on topics such as Git and AWS Services like EC2, S3, CloudWatch, IAM, Load Balancers. Additionally, I have recently completed an internship as a Software Engineer at Diall, Inc., where I designed and prototyped the Diall 3.0 iOS mobile application in Figma in both light and dark modes, which was later developed and released in the App Store.
+I'm **Sujay Sankarapandian** — a Full Stack Developer with over **6 years of experience** building secure, scalable web applications and cloud-native systems using **Node.js**, **React**, and **AWS**.
 
-Prior to my graduate studies, I worked as a Software Engineer at Optum Global Solutions (UnitedHealth Group - UHG) for four years. I led the Front-end development using Angular for Shark Tank - Appolink, Patient Portal and Consumer Contact History Projects in an Agile Environment. I also reduced development costs for the project by strengthening the application infrastructure using CI/CD techniques.
+---
 
-I am proficient in several languages and frameworks including JavaScript, Java, TypeScript, Python, HTML, CSS, Node.js, React, Angular, SQL, Express, Bootstrap, Shell Scripting, Terraform and have experience with database like MongoDB, MySQL, SQL Server, MS SQL. I am also familiar with tools and technologies such as Git, Figma, NetBeans, VS Code, Jenkins, Postman, Splunk, SONAR, Fortify, Docker, CA Agile Central Rally, Linear, PowerShell, and have experience working in AWS. 
+### 💼 Current & Recent Experience
 
-I am a team player and have good communication and collaboration skills. I am also able to stay current with industry trends and have excellent troubleshooting skills.
+**Full Stack Developer @ Block Harbor Cybersecurity (Detroit, MI)**  
+Designed and implemented core features for the **Vehicle Security Engineering Cloud (VSEC)** platform, including:
+- Tree-based asset navigation and advanced risk management workflows
+- AI-powered dashboard that processes 300+ cybersecurity newsletters weekly to extract threat intelligence and surface actionable insights
+- Scalable APIs for role-based **User Access Control** and **Asset Management**
+- Secure email verification flow using **AWS SES**, **Lambda**, and **SNS**, improving onboarding security by 60%
 
-- 📫 How to reach me: palanikumarsankara.s@northeastern.edu
-- 😄 Pronouns: he/him/his
+**Graduate Teaching Assistant @ Northeastern University**  
+- Conducted hands-on labs and office hours for Git and AWS services (EC2, S3, IAM, CloudWatch, Load Balancers)
+- Guided 50+ students on using **Terraform** to provision scalable infrastructure
+
+**Software Engineering Intern @ Diall, Inc.**  
+- Prototyped and designed **Diall 3.0 iOS application** in Figma (light/dark mode)
+- Built the Admin Panel using **React**, enabling effective management of mental health service data
+
+**Software Engineer @ UnitedHealth Group – Optum (India)**  
+- Led frontend development in high-impact healthcare projects using **Angular** and **React**
+- Reduced infrastructure costs by 20% via **CI/CD** and **Terraform**
+- Achieved 99.5% uptime by managing deployments on **Microsoft Azure**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+JavaScript, TypeScript, Node.js, React, Angular, Python, Java, Next.js, Express, Terraform  
+
+**Databases:**  
+MySQL, PostgreSQL, MongoDB, SQL Server  
+
+**Cloud & DevOps:**  
+AWS (EC2, Lambda, S3, IAM, Route 53, CloudWatch), GitHub Actions, Jenkins, Docker, Packer, CloudFormation  
+
+**Other Tools:**  
+Git, Swagger, Postman, Splunk, Figma, Notion, Rally, Linear  
+
+---
+
+### 📚 Education
+
+**M.S. in Information Systems**  
+Northeastern University, Boston, MA — *GPA: 3.8*
+
+**B.Tech in Computer Science**  
+SASTRA University, India
+
+---
+
+### 📫 How to reach me
+
+- Email: [sankarapandian.sujay@gmail.com](mailto:sankarapandian.sujay@gmail.com)  
+- GitHub: [@sujaykumaran-ps](https://github.com/sujaykumaran-ps)  
+- LinkedIn: [linkedin.com/in/sujay-kumaran-sankarapandian](https://linkedin.com/in/sujay-kumaran-sankarapandian)
+
+---
+
+😄 **Pronouns:** he/him/his
